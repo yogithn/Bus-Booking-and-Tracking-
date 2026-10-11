@@ -1,0 +1,197 @@
+<svg width="980" height="620" viewBox="0 0 980 620" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="980" height="620" rx="32" fill="#FCFDFE"/>
+  <circle cx="615" cy="305" r="235" fill="#EEF6FF"/>
+  <ellipse cx="600" cy="550" rx="330" ry="26" fill="#E6F0FA"/>
+
+  <g fill="#DDEBFA">
+    <path d="M58 118c12-18 31-25 54-21 13-19 33-26 56-22 18-17 48-17 65 1 22 0 39 13 47 33H58v9Z"/>
+    <path d="M760 120c10-15 25-21 44-18 11-16 27-22 46-19 15-14 40-14 55 1 18 0 34 11 40 28H760v8Z"/>
+    <path d="M730 440c11-17 27-23 48-20 12-18 30-24 51-20 17-16 46-16 62 1 20 0 37 12 44 31H730v8Z"/>
+  </g>
+
+  <g transform="translate(48 60)">
+    <g>
+      <rect x="0" y="0" width="310" height="62" rx="12" fill="white" stroke="#D9E8F8"/>
+      <circle cx="36" cy="31" r="23" fill="#2B7CF1"/>
+      <path d="M24 41c2-11 9-17 21-17s19 6 21 17" stroke="white" stroke-width="5" stroke-linecap="round"/>
+      <circle cx="36" cy="21" r="8" fill="white"/>
+      <circle cx="55" cy="41" r="9" fill="#2B7CF1" stroke="white" stroke-width="4"/>
+      <path d="M51 37l8 8M59 37l-8 8" stroke="white" stroke-width="3" stroke-linecap="round"/>
+      <text x="78" y="28" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Avoid long queues</text>
+      <text x="78" y="49" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">at offline counters.</text>
+    </g>
+
+    <g transform="translate(0 78)">
+      <rect x="0" y="0" width="310" height="62" rx="12" fill="white" stroke="#D9E8F8"/>
+      <circle cx="36" cy="31" r="23" fill="#D7F6E2"/>
+      <circle cx="36" cy="22" r="8" fill="#26B66B"/>
+      <path d="M18 45c2-12 10-18 18-18s16 6 18 18" fill="#26B66B"/>
+      <text x="78" y="28" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">No travel-agent</text>
+      <text x="78" y="49" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">hassle.</text>
+    </g>
+
+    <g transform="translate(0 156)">
+      <rect x="0" y="0" width="310" height="62" rx="12" fill="white" stroke="#D9E8F8"/>
+      <circle cx="36" cy="31" r="23" fill="#E7E2FF"/>
+      <rect x="20" y="23" width="32" height="22" rx="5" fill="#7568D7"/>
+      <path d="M26 29h20v10H26V29Z" fill="#E9E6FF"/>
+      <circle cx="27" cy="47" r="4" fill="#7568D7"/>
+      <circle cx="45" cy="47" r="4" fill="#7568D7"/>
+      <text x="78" y="38" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Multiple bus services.</text>
+    </g>
+
+    <g transform="translate(0 234)">
+      <rect x="0" y="0" width="310" height="62" rx="12" fill="white" stroke="#D9E8F8"/>
+      <circle cx="36" cy="31" r="23" fill="#FFF0C7"/>
+      <path d="M21 22h32v26H21c7-7 7-19 0-26Z" fill="#F2A51A"/>
+      <path d="M32 27h13M32 35h13M32 43h9" stroke="white" stroke-width="3" stroke-linecap="round"/>
+      <text x="78" y="28" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Book private and state</text>
+      <text x="78" y="49" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">transport tickets.</text>
+    </g>
+
+    <g transform="translate(0 312)">
+      <rect x="0" y="0" width="310" height="62" rx="12" fill="white" stroke="#D9E8F8"/>
+      <circle cx="36" cy="31" r="23" fill="#DFF4FF"/>
+      <circle cx="31" cy="27" r="13" stroke="#2488D8" stroke-width="5"/>
+      <path d="M42 39l13 13" stroke="#2488D8" stroke-width="5" stroke-linecap="round"/>
+      <text x="78" y="38" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Check availability online.</text>
+    </g>
+
+    <g transform="translate(0 390)">
+      <rect x="0" y="0" width="310" height="62" rx="12" fill="white" stroke="#D9E8F8"/>
+      <circle cx="36" cy="31" r="23" fill="#DDF6EF"/>
+      <circle cx="36" cy="31" r="14" stroke="#20A892" stroke-width="5"/>
+      <path d="M36 20v12l9 7" stroke="#20A892" stroke-width="4" stroke-linecap="round"/>
+      <text x="78" y="28" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Live timings and</text>
+      <text x="78" y="49" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">boarding details.</text>
+    </g>
+  </g>
+
+  <path d="M365 250c42-115 153-178 282-160 116 17 205 95 236 204" stroke="#7DBBFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 12"/>
+  <path d="M388 412c-30-60-28-119-1-176" stroke="#7DBBFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 12"/>
+  <path d="M842 374c16-64 12-122-15-176" stroke="#7DBBFF" stroke-width="3" stroke-linecap="round" stroke-dasharray="8 12"/>
+
+  <g transform="translate(503 85)">
+    <circle cx="42" cy="42" r="42" fill="white" stroke="#D6E7F8"/>
+    <circle cx="42" cy="42" r="22" stroke="#2B7CF1" stroke-width="6"/>
+    <path d="M42 19v-9M34 10h16M42 42V28M42 42l10 8" stroke="#2B7CF1" stroke-width="5" stroke-linecap="round"/>
+    <text x="3" y="108" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="800">Live Timings</text>
+  </g>
+
+  <g transform="translate(402 157)">
+    <circle cx="34" cy="34" r="34" fill="#2B7CF1"/>
+    <path d="M26 19h20l5 24H25l1-24Z" fill="white"/>
+    <rect x="22" y="44" width="32" height="8" rx="4" fill="white"/>
+    <text x="-3" y="83" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Seat</text>
+    <text x="-27" y="103" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Availability</text>
+  </g>
+
+  <g transform="translate(695 151)">
+    <circle cx="37" cy="37" r="37" fill="#F28A1C"/>
+    <text x="17" y="55" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="800">Rs</text>
+    <text x="-2" y="91" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Best Prices</text>
+  </g>
+
+  <g transform="translate(816 263)">
+    <circle cx="42" cy="42" r="42" fill="#28B77A"/>
+    <path d="M42 64c21-25 31-40 31-54 0-17-14-31-31-31S11-7 11 10c0 14 10 29 31 54Z" transform="translate(0 12)" fill="white" fill-opacity="0.96"/>
+    <circle cx="42" cy="43" r="10" fill="#28B77A"/>
+    <text x="-50" y="105" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Boarding &amp; Dropping</text>
+    <text x="-14" y="124" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Details</text>
+  </g>
+
+  <g transform="translate(618 210)">
+    <path d="M0 76c0-34 28-62 62-62h204c58 0 105 47 105 105v82H0V76Z" fill="#EDF5FF"/>
+    <path d="M107 36h157c47 0 85 38 85 85v67H107V36Z" fill="#143B6E"/>
+    <path d="M18 94l89-39v133H18V94Z" fill="#FFFFFF"/>
+    <path d="M128 54h74v118h-74V54Zm88 0h50c36 0 65 29 65 65v53H216V54Z" fill="#1D477D"/>
+    <path d="M32 101l61-27v100H32V101Z" fill="#DCEBFA"/>
+    <rect x="265" y="104" width="52" height="30" rx="4" fill="#DCEBFA"/>
+    <path d="M323 104h26c16 0 30 14 30 30v43" stroke="#2B7CF1" stroke-width="18" stroke-linecap="round"/>
+    <path d="M108 73h33c11 0 20 9 20 20v37" stroke="#57AFFF" stroke-width="18" stroke-linecap="round"/>
+    <rect x="147" y="185" width="177" height="35" rx="10" fill="#FFFFFF"/>
+    <circle cx="97" cy="197" r="27" fill="#153866"/>
+    <circle cx="97" cy="197" r="12" fill="#89A7C2"/>
+    <circle cx="270" cy="197" r="27" fill="#153866"/>
+    <circle cx="270" cy="197" r="12" fill="#89A7C2"/>
+    <path d="M215 181l86-24" stroke="#102B51" stroke-width="4" stroke-linecap="round"/>
+    <path d="M302 154l-16-16" stroke="#102B51" stroke-width="4" stroke-linecap="round"/>
+  </g>
+
+  <g transform="translate(496 201)">
+    <rect x="0" y="0" width="226" height="405" rx="42" fill="#102B51"/>
+    <rect x="15" y="16" width="196" height="370" rx="30" fill="#F9FCFF"/>
+    <path d="M61 16h99l-5 18c-2 9-10 15-20 15H86c-10 0-18-6-20-15l-5-18Z" fill="#102B51"/>
+    <path d="M52 65h19M52 75h19M52 85h19" stroke="#174273" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="178" cy="74" r="8" fill="#2B7CF1"/>
+    <path d="M178 58v25M170 82h16" stroke="#2B7CF1" stroke-width="4" stroke-linecap="round"/>
+    <text x="98" y="78" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800">Bus Booking</text>
+
+    <rect x="36" y="112" width="154" height="76" rx="9" fill="#9DD1FF"/>
+    <rect x="67" y="137" width="84" height="38" rx="8" fill="#2B7CF1"/>
+    <path d="M75 144h24v18H75v-18Zm31 0h22v18h-22v-18Zm29 0h11v18h-11v-18Z" fill="#CFEAFF"/>
+    <circle cx="86" cy="176" r="6" fill="#153866"/>
+    <circle cx="140" cy="176" r="6" fill="#153866"/>
+
+    <rect x="36" y="206" width="154" height="56" rx="9" fill="white" stroke="#D9E8F8"/>
+    <text x="52" y="231" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">From</text>
+    <text x="126" y="231" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">To</text>
+    <text x="52" y="250" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">City A</text>
+    <text x="126" y="250" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">City B</text>
+
+    <rect x="36" y="278" width="154" height="50" rx="9" fill="white" stroke="#D9E8F8"/>
+    <text x="52" y="299" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="800">Date</text>
+    <rect x="52" y="306" width="14" height="14" rx="2" fill="#2B7CF1"/>
+    <text x="78" y="319" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">12 May, 2025</text>
+
+    <rect x="36" y="343" width="154" height="37" rx="9" fill="#2B7CF1"/>
+    <text x="79" y="367" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800">Search Buses</text>
+  </g>
+
+  <g transform="translate(542 448)">
+    <rect x="0" y="0" width="208" height="68" rx="15" fill="white" stroke="#D9E8F8"/>
+    <circle cx="34" cy="34" r="21" fill="#35C982"/>
+    <path d="M24 34l8 8 17-21" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="69" y="31" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Booking Confirmed!</text>
+    <text x="69" y="51" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">E-ticket sent successfully</text>
+  </g>
+
+  <g transform="translate(462 475)">
+    <path d="M0 0h210v84H0V0Z" fill="white" stroke="#D9E8F8"/>
+    <path d="M0 84c11 10 22 10 33 0 11 10 22 10 33 0 11 10 22 10 33 0 11 10 22 10 33 0 11 10 22 10 33 0 11 10 22 10 45 0H0Z" fill="white"/>
+    <text x="22" y="32" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="900">E-TICKET</text>
+    <rect x="26" y="46" width="34" height="28" rx="5" fill="#2B7CF1"/>
+    <path d="M32 53h22v11H32V53Z" fill="#D8ECFF"/>
+    <circle cx="35" cy="75" r="4" fill="#102B51"/>
+    <circle cx="55" cy="75" r="4" fill="#102B51"/>
+    <rect x="82" y="45" width="47" height="7" rx="3.5" fill="#B7C9DA"/>
+    <rect x="82" y="62" width="76" height="7" rx="3.5" fill="#B7C9DA"/>
+    <g fill="#102044">
+      <rect x="157" y="40" width="8" height="8"/>
+      <rect x="173" y="40" width="8" height="8"/>
+      <rect x="189" y="40" width="8" height="8"/>
+      <rect x="157" y="56" width="8" height="8"/>
+      <rect x="165" y="48" width="8" height="8"/>
+      <rect x="181" y="48" width="8" height="8"/>
+      <rect x="189" y="56" width="8" height="8"/>
+      <rect x="157" y="72" width="8" height="8"/>
+      <rect x="173" y="72" width="8" height="8"/>
+      <rect x="181" y="64" width="8" height="8"/>
+      <rect x="189" y="72" width="8" height="8"/>
+    </g>
+  </g>
+
+  <g transform="translate(412 468)">
+    <path d="M50 0c21 18 44 24 72 25v55c0 41-28 68-72 85-44-17-72-44-72-85V25C6 24 29 18 50 0Z" fill="#D8E9FF"/>
+    <path d="M50 14c16 13 35 19 58 20v44c0 33-22 55-58 69-36-14-58-36-58-69V34c23-1 42-7 58-20Z" fill="#2B7CF1"/>
+    <rect x="28" y="71" width="44" height="39" rx="6" fill="white"/>
+    <path d="M35 71V58c0-20 30-20 30 0v13" stroke="white" stroke-width="10" stroke-linecap="round"/>
+    <circle cx="50" cy="90" r="5" fill="#2B7CF1"/>
+    <rect x="47" y="93" width="6" height="12" rx="3" fill="#2B7CF1"/>
+  </g>
+
+  <g fill="#4AA1FF">
+    <path d="M390 92l5 11 11 5-11 5-5 11-5-11-11-5 11-5 5-11Z"/>
+    <path d="M890 198l6 13 13 6-13 6-6 13-6-13-13-6 13-6 6-13Z"/>
+  </g>
+</svg>

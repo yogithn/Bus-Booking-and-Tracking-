@@ -1,0 +1,86 @@
+<svg width="760" height="520" viewBox="0 0 760 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="760" height="520" rx="32" fill="#FCFDFE"/>
+  <circle cx="405" cy="245" r="195" fill="#EEF6FF"/>
+  <ellipse cx="384" cy="432" rx="270" ry="22" fill="#E7F0FA"/>
+
+  <g fill="#DDEBFA">
+    <path d="M72 142c12-18 30-24 52-21 13-18 32-24 54-21 18-17 47-16 63 2 20 0 37 12 44 31H72v9Z"/>
+    <path d="M595 153c9-14 23-19 41-17 10-14 25-20 42-18 15-13 38-13 51 1 17 0 31 10 36 25H595v9Z"/>
+  </g>
+
+  <g transform="translate(436 86)">
+    <path d="M58 0c24 20 50 27 82 28v62c0 45-33 76-82 94C9 166-24 135-24 90V28C8 27 34 20 58 0Z" fill="#D7E8FF"/>
+    <path d="M58 16c18 15 39 21 64 22v50c0 35-24 60-64 75-40-15-64-40-64-75V38c25-1 46-7 64-22Z" fill="#2B7CF1"/>
+    <path d="M27 86l23 23 43-55" stroke="white" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="-34" y="226" fill="#102044" font-family="Arial, Helvetica, sans-serif" font-size="25" font-weight="800">Secure Payment</text>
+  </g>
+
+  <path d="M330 225c52 2 91-15 119-52" stroke="#2B7CF1" stroke-width="4" stroke-linecap="round" stroke-dasharray="8 10"/>
+
+  <g transform="translate(348 264)">
+    <path d="M0 52c0-25 20-45 45-45h220c48 0 87 39 87 87v70H0V52Z" fill="#F4F8FF"/>
+    <path d="M95 31h166c37 0 67 30 67 67v56H95V31Z" fill="#163B6C"/>
+    <path d="M18 72l76-30v112H18V72Z" fill="#FFFFFF"/>
+    <path d="M114 46h70v97h-70V46Zm84 0h61c28 0 51 23 51 51v46H198V46Z" fill="#1D477D"/>
+    <path d="M30 78l52-20v85H30V78Z" fill="#DCEBFA"/>
+    <rect x="247" y="84" width="46" height="25" rx="4" fill="#DCEBFA"/>
+    <path d="M305 87h20c14 0 26 12 26 26v25" stroke="#2B7CF1" stroke-width="16" stroke-linecap="round"/>
+    <path d="M93 60h30c10 0 18 8 18 18v25" stroke="#57AFFF" stroke-width="16" stroke-linecap="round"/>
+    <rect x="132" y="150" width="170" height="32" rx="10" fill="#FFFFFF"/>
+    <circle cx="87" cy="168" r="24" fill="#153866"/>
+    <circle cx="87" cy="168" r="11" fill="#89A7C2"/>
+    <circle cx="252" cy="168" r="24" fill="#153866"/>
+    <circle cx="252" cy="168" r="11" fill="#89A7C2"/>
+    <path d="M200 146l83-22" stroke="#102B51" stroke-width="4" stroke-linecap="round"/>
+    <path d="M284 122l-15-15" stroke="#102B51" stroke-width="4" stroke-linecap="round"/>
+    <rect x="58" y="13" width="104" height="17" rx="8.5" fill="#2B7CF1"/>
+  </g>
+
+  <g transform="translate(135 92)">
+    <rect x="0" y="0" width="178" height="314" rx="34" fill="#102B51"/>
+    <rect x="13" y="15" width="152" height="284" rx="24" fill="#F9FCFF"/>
+    <path d="M49 15h77l-4 15c-2 8-9 13-18 13H72c-9 0-16-5-18-13l-5-15Z" fill="#102B51"/>
+    <path d="M38 63l-14 14 14 14M25 77h29" stroke="#102B51" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="146" cy="56" r="2.7" fill="#102B51"/>
+    <circle cx="146" cy="66" r="2.7" fill="#102B51"/>
+    <circle cx="146" cy="76" r="2.7" fill="#102B51"/>
+    <text x="66" y="82" fill="#0C1B46" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="800">Bus Ticket</text>
+
+    <rect x="32" y="112" width="114" height="64" rx="11" fill="white"/>
+    <rect x="51" y="132" width="71" height="32" rx="7" fill="#2B7CF1"/>
+    <path d="M59 139h18v15H59v-15Zm24 0h18v15H83v-15Zm24 0h10v15h-10v-15Z" fill="#A5D5FF"/>
+    <circle cx="68" cy="165" r="5" fill="#153866"/>
+    <circle cx="109" cy="165" r="5" fill="#153866"/>
+
+    <rect x="32" y="192" width="114" height="54" rx="11" fill="white"/>
+    <text x="46" y="217" fill="#0C1B46" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700">Route</text>
+    <path d="M58 230c-11-10 4-27 15-16 9 9 0 20-7 29-2-4-5-9-8-13Z" fill="#2B7CF1"/>
+    <path d="M116 230c-11-10 4-27 15-16 9 9 0 20-7 29-2-4-5-9-8-13Z" fill="#2B7CF1"/>
+    <path d="M66 227h52" stroke="#B6CDF3" stroke-width="3" stroke-dasharray="6 6"/>
+
+    <rect x="32" y="260" width="114" height="30" rx="10" fill="#2B7CF1"/>
+    <path d="M53 273h10v9H53v-9Zm2 0v-6c0-9 14-9 14 0v6" stroke="white" stroke-width="4" stroke-linecap="round"/>
+    <text x="80" y="281" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="800">Pay</text>
+  </g>
+
+  <g transform="translate(281 398)">
+    <rect x="0" y="0" width="210" height="58" rx="18" fill="white" stroke="#E5EFF9"/>
+    <circle cx="35" cy="29" r="20" fill="#4CCF92"/>
+    <path d="M25 29l8 8 16-19" stroke="white" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="70" y="27" fill="#0C1B46" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">Payment</text>
+    <text x="70" y="48" fill="#0C1B46" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800">Successful</text>
+  </g>
+
+  <g transform="translate(82 323)">
+    <rect x="0" y="0" width="100" height="62" rx="12" fill="#2B7CF1"/>
+    <rect x="15" y="18" width="22" height="18" rx="4" fill="#FFD16E"/>
+    <path d="M15 27h22M22 18v18M31 18v18" stroke="#D8A84A" stroke-width="1.7"/>
+    <text x="15" y="48" fill="white" font-family="Arial, Helvetica, sans-serif" font-size="11">1234 5678</text>
+  </g>
+
+  <g fill="#4AA1FF">
+    <path d="M116 54l8 17 17 8-17 8-8 17-8-17-17-8 17-8 8-17Z"/>
+    <path d="M76 221l5 11 11 5-11 5-5 11-5-11-11-5 11-5 5-11Z"/>
+  </g>
+  <path d="M671 289l6 13 13 6-13 6-6 13-6-13-13-6 13-6 6-13Z" fill="#FFAE43"/>
+</svg>

@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 480" role="img" aria-labelledby="title desc">
+  <title id="title">Passengers Bus Logo</title>
+  <desc id="desc">Vintage bus badge with the words Passengers Bus and Safe Journeys Together</desc>
+  
+  <!-- Outer circle background -->
+  <circle cx="200" cy="200" r="185" fill="#f5e8d8" stroke="#2c4f5c" stroke-width="8"/>
+  
+  <!-- Inner circle accent -->
+  <circle cx="200" cy="200" r="175" fill="none" stroke="#2c4f5c" stroke-width="2" opacity="0.3"/>
+  
+  <!-- Top arc background -->
+  <path d="M 50 200 A 150 150 0 0 1 350 200" fill="#2c4f5c" stroke="none"/>
+  
+  <!-- Bus illustration -->
+  <g transform="translate(200, 130)">
+    <!-- Bus body main -->
+    <ellipse cx="0" cy="0" rx="45" ry="35" fill="#d4c5b0" stroke="#2c4f5c" stroke-width="2"/>
+    
+    <!-- Bus front -->
+    <path d="M -42 -8 L -52 -5 L -52 15 L -42 15 Z" fill="#d4c5b0" stroke="#2c4f5c" stroke-width="2"/>
+    
+    <!-- Bus cabin/front section -->
+    <rect x="-40" y="-20" width="25" height="18" fill="#c9baaa" stroke="#2c4f5c" stroke-width="1.5" rx="2"/>
+    
+    <!-- Windshield -->
+    <rect x="-37" y="-17" width="20" height="12" fill="#b8d4e8" stroke="#2c4f5c" stroke-width="1" opacity="0.8"/>
+    
+    <!-- Windows - left side -->
+    <g stroke="#2c4f5c" stroke-width="1.5" fill="#b8d4e8" opacity="0.7">
+      <rect x="-30" y="-8" width="8" height="8"/>
+      <rect x="-18" y="-8" width="8" height="8"/>
+      <rect x="-6" y="-8" width="8" height="8"/>
+      <rect x="6" y="-8" width="8" height="8"/>
+      <rect x="18" y="-8" width="8" height="8"/>
+    </g>
+    
+    <!-- Windows - middle row -->
+    <g stroke="#2c4f5c" stroke-width="1.5" fill="#b8d4e8" opacity="0.7">
+      <rect x="-30" y="2" width="8" height="8"/>
+      <rect x="-18" y="2" width="8" height="8"/>
+      <rect x="-6" y="2" width="8" height="8"/>
+      <rect x="6" y="2" width="8" height="8"/>
+      <rect x="18" y="2" width="8" height="8"/>
+    </g>
+    
+    <!-- Front bumper -->
+    <rect x="-50" y="14" width="100" height="4" fill="#8b7355" stroke="#2c4f5c" stroke-width="1"/>
+    
+    <!-- Wheels -->
+    <circle cx="-25" cy="22" r="8" fill="#2c4f5c" stroke="#2c4f5c" stroke-width="1"/>
+    <circle cx="-25" cy="22" r="5" fill="#f5e8d8" stroke="#2c4f5c" stroke-width="1"/>
+    
+    <circle cx="25" cy="22" r="8" fill="#2c4f5c" stroke="#2c4f5c" stroke-width="1"/>
+    <circle cx="25" cy="22" r="5" fill="#f5e8d8" stroke="#2c4f5c" stroke-width="1"/>
+  </g>
+  
+  <!-- Banner bottom - upper white band -->
+  <path d="M 60 270 Q 60 260 70 260 L 330 260 Q 340 260 340 270 L 340 290 Q 340 300 330 300 L 70 300 Q 60 300 60 290 Z" 
+        fill="#f5e8d8" stroke="#2c4f5c" stroke-width="2"/>
+  
+  <!-- Banner bottom - lower band with text background -->
+  <path d="M 50 300 Q 50 290 60 290 L 340 290 Q 350 300 350 310 L 350 420 Q 350 430 340 430 L 60 430 Q 50 420 50 410 Z" 
+        fill="#2c4f5c" stroke="#2c4f5c" stroke-width="2"/>
+  
+  <!-- Top text: PASSENGERS -->
+  <text x="200" y="280" font-family="Georgia, serif" font-size="32" font-weight="bold" text-anchor="middle" fill="#2c4f5c" letter-spacing="2">
+    PASSENGERS
+  </text>
+  
+  <!-- Middle text: BUS -->
+  <text x="200" y="365" font-family="Georgia, serif" font-size="48" font-weight="bold" text-anchor="middle" fill="#f5e8d8" letter-spacing="3">
+    BUS
+  </text>
+  
+  <!-- Bottom text: SAFE JOURNEYS TOGETHER -->
+  <text x="200" y="410" font-family="Georgia, serif" font-size="11" text-anchor="middle" fill="#d4c5b0" letter-spacing="1.5">
+    SAFE JOURNEYS TOGETHER
+  </text>
+  
+  <!-- Decorative elements -->
+  <circle cx="80" cy="330" r="3" fill="#d4c5b0" opacity="0.5"/>
+  <circle cx="320" cy="330" r="3" fill="#d4c5b0" opacity="0.5"/>
+
+    <path d="M52 418h1096c32 0 55 26 51 58l-24 178c-4 29-29 50-59 47-348-44-684-44-1032 0-30 3-55-18-59-47L1 476c-4-32 19-58 51-58z" fill="#f2e9d4" stroke-width="14" />
+    <path d="M98 689c336-72 668-72 1004 0" stroke-width="12" />
+    <path d="M170 634h860" stroke-width="9" />
+
+    <g fill="#102b38" stroke="none">
+      <path d="M112 469h80c60 0 92 27 92 78 0 54-37 83-99 83h-22v68h-51zm51 39v83h21c29 0 45-14 45-43 0-27-14-40-43-40z" />
+      <path d="M337 469h58l74 229h-55l-13-45h-74l-13 45h-52zm27 56-25 88h50z" />
+      <path d="M518 703c-33 0-61-7-86-21l12-44c21 13 45 20 73 20 25 0 38-8 38-24 0-13-8-20-27-25l-36-10c-39-11-58-32-58-65 0-43 35-69 90-69 30 0 55 6 75 17l-10 43c-19-10-40-16-64-16-24 0-36 7-36 22 0 12 8 19 25 24l37 10c41 11 61 33 61 67 0 45-36 71-94 71z" />
+      <path d="M685 703c-33 0-61-7-86-21l12-44c21 13 45 20 73 20 25 0 38-8 38-24 0-13-8-20-27-25l-36-10c-39-11-58-32-58-65 0-43 35-69 90-69 30 0 55 6 75 17l-10 43c-19-10-40-16-64-16-24 0-36 7-36 22 0 12 8 19 25 24l37 10c41 11 61 33 61 67 0 45-36 71-94 71z" />
+      <path d="M815 469h150v42h-97v50h84v40h-84v55h101v42H815z" />
+      <path d="M1001 469h75c59 0 92 26 92 74 0 30-14 53-40 65l51 90h-58l-43-79h-24v79h-53zm53 39v72h21c27 0 40-12 40-37 0-24-13-35-40-35z" />
+    </g>
+
+    <g fill="#102b38" stroke="none">
+      <text x="600" y="611" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="82" font-weight="700" letter-spacing="20">BUS</text>
+      <circle cx="304" cy="606" r="6" />
+      <circle cx="907" cy="606" r="6" />
+      <path d="M366 584h112M386 605h92M411 625h67M723 584h112M723 605h92M723 625h67" stroke="#102b38" stroke-width="9" stroke-linecap="round" />
+      <text x="600" y="708" text-anchor="middle" font-family="Arial, sans-serif" font-size="36" font-weight="700" letter-spacing="13">SAFE JOURNEYS TOGETHER</text>
+    </g>
+  <rect width="1200" height="760" filter="url(#paperGrain)" opacity="0.28" />
+</svg>
